@@ -1,6 +1,6 @@
-# Password-Audit-Tracker
+# Password Audit Tracker using Microsoft Excel
 
-## I created a password auditing tracker using **Microsoft Excel** to further my learning in both Excel and **Auditing/Cybersecurity** practices.
+I created a password auditing tracker using **Microsoft Excel** to further my learning in both Excel and **Auditing/Cybersecurity** practices.
 
 As mentioned in the short introduction, the goal of this project was to gain a stronger understanding of Excel's functions and how they can be used to
 present information to viewers. Given my interest in the field of cybersecurity, I felt as though this would be a great starting point in familiarizing
