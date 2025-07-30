@@ -12,7 +12,7 @@ my academic journey regarding account safeguarding.
 
 In the Excel file itself, there are 4 sheets containing separate pieces of information. They are: Index, Findings, Pie Chart, and Logins. 
 
-Index:
+<ins>**Index:**</ins>
 
 ![Index](images/auditProject1.png)
 
@@ -20,7 +20,7 @@ This sheet describes what criteria I'm looking for in the User's password. Using
 responses to a simple "Yes" or "No". I also mention my usage of Conditional Formatting within the "Password Strength" criteria, where I'm using color coordination
 to indicate the strength of the user's password. Red is weak and green is strong.
 
-Findings:
+<ins>**Findings:**</ins>
 
 ![Findings](images/auditProject2.png)
 
@@ -28,7 +28,7 @@ This sheet includes a few data points along with a comprehensive summary discuss
 their passwords were among the most common in the world. I also discuss the topic of why having a strong password is important and bring up the claim that
 a standard for password creation should be formed to protect users from around the world.
 
-Pie Chart:
+<ins>**Pie Chart:**</ins>
 
 ![Pie Chart](images/auditProject3.png)
 
@@ -36,7 +36,7 @@ This sheet mainly revolved around the "Password Strength" criteria and worked to
 I chose a pie chart as my graph so viewers could have an easier understanding of the number of people that fit into each category and see the imbalance between
 having a "medium strength" password compared to those that have "very strong" passwords.
 
-Logins:
+<ins>**Logins:**</ins>
 
 ![Logins](images/auditProject4.png)
 
@@ -46,4 +46,4 @@ from a scale of 0-6. With 0 being a weak password and 6 being a strong password.
 have an easier time understanding which passwords can be seen as weak or strong.
 
 Overall, I enjoyed my time working on this project and feel a boost in confidence regarding my ability to accurately analyze aspects of a user's account information
-and use Excel to present those findings in a digestible manner.
+and use Excel to present those findings in a digestible manner. Thank you for viewing.
